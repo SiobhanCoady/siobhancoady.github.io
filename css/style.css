@@ -1,0 +1,34 @@
+body {
+  background-color: lightskyblue;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+a {
+  text-decoration: none;
+  color: darkorchid;
+}
+a:hover {
+  color: orchid;
+}
+.button {
+  border-radius: 5px;
+  background-color: darkorchid;
+  padding: 20px;
+  color: white;
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
+.button:hover {
+  background-color: orchid;
+}
